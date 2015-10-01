@@ -1,0 +1,52 @@
+body {
+    background: #222;
+    color: #888;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#logo img {
+    max-height: 80px;
+    margin-top: 10px;
+}
+
+header h1 {
+    color: #fff;
+}
+
+header {
+    border-bottom: 2px solid #bcbcbc;
+    margin-bottom: 20px;
+}
+
+.hex {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.hex li {
+    line-height: 1.2;
+    list-style-type: none;
+}
+
+h3 a {
+    color: #f9881c;
+}
+
+h3 a:hover {
+    text-decoration: none;
+    color: #ddd;
+}
+
+footer {
+    margin-top: 40px;
+    border-top: 2px solid #bcbcbc;
+    padding-top: 20px;
+}
